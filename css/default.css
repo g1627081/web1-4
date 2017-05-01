@@ -1,17 +1,17 @@
 @charset "UTF-8"; 
 body{
-    
+    background-color: #fbf9cc; 
     background-image: url(../img/image.jpg);
-    background-repeat: repeat-x;
+    
 }
 h1{
     font-size: 1.75em;
-    color: #000080;
+    color: #008000;
     text-align:center;
 }
 h2{
     font-size: 1.25em;
-    color: #000080;
+    color: #008000;
     border: #94c8b1 1px dotted; /* 境界線 */
     border-left:#d0e35b 10px solid;
 }
