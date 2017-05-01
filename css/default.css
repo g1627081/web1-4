@@ -12,6 +12,8 @@ h1{
 h2{
     font-size: 1.25em;
     color: #87ceeb;
+    border: #94c8b1 1px dotted; /* 境界線 */
+    border-left:#d0e35b 10px solid;
 }
 p{
     font-size: 0.8em;
