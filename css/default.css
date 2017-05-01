@@ -23,4 +23,17 @@ p{
 li{
     font-size: 0.8em;
     color: #ff0000;
+    border:solid 3px #ffff00;
+}
+.fl:first-letter{
+    font-size: 3.5em;
+}
+.new{
+    border-top: #6fbb9a 1px dotted;
+}
+#lead{
+border-top: #6fbb9a 1px dotted;
+}
+.greeting{
+    border-top: #6fbb9a 1px dotted;
 }
